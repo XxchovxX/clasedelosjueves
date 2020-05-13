@@ -1,0 +1,2 @@
+# clasedelosjueves
+regresando a git
